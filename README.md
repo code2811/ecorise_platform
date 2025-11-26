@@ -70,4 +70,4 @@ Keep your API key secure when deploying.
 Works fully in-browser; no backend setup required.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Proprietary License . See the [LICENSE](LICENSE) file for details.
